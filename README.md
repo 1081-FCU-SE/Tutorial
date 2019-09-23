@@ -10,7 +10,7 @@
   跨平台 Git GUI 客戶端，方便操作
 
 ## 目錄
-- [1071 軟工 Term Project GitHub 操作手冊](./GitHub.md)
+- [1081 軟工 Term Project GitHub 操作手冊](./GitHub.md)
 - [Travis CI 自動建置與測試](./Travis-CI.md)
 
 ## 額外資源
