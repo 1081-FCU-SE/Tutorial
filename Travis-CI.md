@@ -28,7 +28,7 @@ Travis CI 與 GitHub 高度整合，只要將程式碼 push 到 GitHub，Travis 
 
 ## 在專案顯示建置與測試狀態
 若想在 GitHub 專案的 README 頁面顯示建置與測試狀態，可照以下動作進行。
-1. 將 `README.md` 檔案最上方的部分，出現的四個 `1071-FCU-SE/BaseProject` 改為自己的專案路徑  
+1. 將 `README.md` 檔案最上方的部分，出現的四個 `1081-FCU-SE/BaseProject` 改為自己的專案路徑  
 ![](img/Travis-CI/09.png)
 2. 修改後，即可於 `README` 頁面，看到建置與測試狀態、程式碼覆蓋率之圖片  
 ![](img/Travis-CI/10.png)
